@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Amforová</string>
+	<string>Archeologická</string>
+	<string>Armády</string>
+	<string>Bavorská</string>
+	<string>Běhounkova</string>
+	<string>Bellušova</string>
+	<string>Bílovská</string>
+	<string>Blattného</string>
+	<string>Böhmova</string>
+	<string>Borovanského</string>
+	<string>Brdičkova</string>
+	<string>Bronzová</string>
+	<string>Bucharova</string>
+	<string>Červeňanského</string>
+	<string>Diabasová</string>
+	<string>Dominova</string>
+	<string>Drimlova</string>
+	<string>Fantova</string>
+	<string>Fingerova</string>
+	<string>Flöglova</string>
+	<string>Hábova</string>
+	<string>Heranova</string>
+	<string>Herčíkova</string>
+	<string>Holýšovská</string>
+	<string>Horákova</string>
+	<string>Hostinského</string>
+	<string>Husníkova</string>
+	<string>Chalabalova</string>
+	<string>Chlupova</string>
+	<string>Janského</string>
+	<string>Jeremiašova</string>
+	<string>Jindrova</string>
+	<string>K Brance</string>
+	<string>K Fialce</string>
+	<string>K Hájům</string>
+	<string>K Chabům</string>
+	<string>K Jasánkám</string>
+	<string>K Jihu</string>
+	<string>K Lužinám</string>
+	<string>K Náplavce</string>
+	<string>K Návrší</string>
+	<string>K Ohradě</string>
+	<string>K Opatřilce</string>
+	<string>K Řeporyjím</string>
+	<string>K Sopce</string>
+	<string>K Vidouli</string>
+	<string>K Zahrádkám</string>
+	<string>Kálikova</string>
+	<string>Ke Klubovně</string>
+	<string>Ke Koh-i-nooru</string>
+	<string>Ke Konstruktivě</string>
+	<string>Ke Skalce</string>
+	<string>Ke Studánce</string>
+	<string>Kettnerova</string>
+	<string>Klausova</string>
+	<string>Klukovická</string>
+	<string>Kociánova</string>
+	<string>Kodymova</string>
+	<string>Kolovečská</string>
+	<string>Kopanina</string>
+	<string>Kovářova</string>
+	<string>Křepelčí</string>
+	<string>Kuncova</string>
+	<string>Kuní</string>
+	<string>Kurzova</string>
+	<string>Liběšická</string>
+	<string>Liščí</string>
+	<string>Líšnická</string>
+	<string>Lýskova</string>
+	<string>Mezi Školami</string>
+	<string>Mládí</string>
+	<string>Modrá</string>
+	<string>Mohylová</string>
+	<string>Mukařovského</string>
+	<string>Mutěnínská</string>
+	<string>Na Dolnici</string>
+	<string>Na Hvížďalce</string>
+	<string>Na Klínech</string>
+	<string>Na Vlku</string>
+	<string>Na Zlatě</string>
+	<string>Nad Brůdkem</string>
+	<string>náměstí Na Lužinách</string>
+	<string>Nárožní</string>
+	<string>Netouškova</string>
+	<string>Neustupného</string>
+	<string>Nušlova</string>
+	<string>Ohradské náměstí</string>
+	<string>Oistrachova</string>
+	<string>Ohradské náměstí</string>
+	<string>Oistrachova</string>
+	<string>Okruhová</string>
+	<string>Ostřicová</string>
+	<string>Otavova</string>
+	<string>Ovčí hájek</string>
+	<string>Pavrovského</string>
+	<string>Petržílkova</string>
+	<string>Píškova</string>
+	<string>Pod Hranicí</string>
+	<string>Pod Kulturním domem</string>
+	<string>Pod Vlkem</string>
+	<string>Pod Zličínem</string>
+	<string>Podohradská</string>
+	<string>Podpěrova</string>
+	<string>Prusíkova</string>
+	<string>Přecechtělova</string>
+	<string>Před Rybníkem</string>
+	<string>Rotavská</string>
+	<string>Rozvadovská spojka</string>
+	<string>Seydlerova</string>
+	<string>Sezemínská</string>
+	<string>Sluneční náměstí</string>
+	<string>Sojčí</string>
+	<string>Srnčí</string>
+	<string>Suchý vršek</string>
+	<string>Šostakovičovo nám.</string>
+	<string>Tlumačovská</string>
+	<string>Trávníčkova</string>
+	<string>U Albrechtova vrchu</string>
+	<string>U Cikánky</string>
+	<string>U Dálnice</string>
+	<string>U Dobráků</string>
+	<string>U Hasičské zbrojnice</string>
+	<string>U Jezera</string>
+	<string>U Kašny</string>
+	<string>U Paloučku</string>
+	<string>V Borovičkách</string>
+	<string>V Brůdku</string>
+	<string>V Hůrkách</string>
+	<string>V Nové vsi</string>
+	<string>Vackova</string>
+	<string>Ve Stromořadí</string>
+	<string>Velichovská</string>
+	<string>Vlachova</string>
+	<string>Vlasákova</string>
+	<string>Volutová</string>
+	<string>Vstavačová</string>
+	<string>Za Lužinami</string>
+	<string>Za Mototechnou</string>
+	<string>Zaječí</string>
+	<string>Zázvorkova</string>
+	<string>Zvoncovitá</string>
+	<string>Živcových</string>
+</array>
+</plist>

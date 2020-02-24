@@ -1,0 +1,5 @@
+fonts:
+  inputs: Example/MoviesExample/Fonts
+  outputs:
+    templateName: swift4
+    output: Example/MoviesExample/Fonts/Fonts.swift

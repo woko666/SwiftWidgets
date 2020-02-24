@@ -1,0 +1,39 @@
+{
+  "name": "ETWidgetsSwift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "Eternal widgety optimalizovane pro Swift.",
+  "version": "3.0.17",
+  "swift_versions": "4.2",
+  "license": {
+    "type": "Eternal s.r.o.",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Miloš Doubek": "milos.doubek@gmail.com"
+  },
+  "homepage": "https://gitlab.com/eternalcz/ios/etwidgetsswift",
+  "source": {
+    "git": "https://gitlab.com/eternalcz/ios/etwidgetsswift.git",
+    "tag": "3.0.17"
+  },
+  "frameworks": "UIKit",
+  "source_files": "Sources/**/*.swift",
+  "resources": [
+    "Source/**/*.xib",
+    "Source/**/*.xcassets"
+  ],
+  "dependencies": {
+    "ETWidgets": [
+      "3.0.17"
+    ],
+    "ETSwiftUtils": [
+
+    ],
+    "SnapKit": [
+      "~> 4.0.0"
+    ]
+  },
+  "swift_version": "4.2"
+}

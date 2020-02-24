@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Example/Pods-Example-resources.sh
+${PODS_ROOT}/../../../ETWidgetsSwift/Source/Forms/TakePhotoWidget.xib
+${PODS_ROOT}/../../../ETWidgetsSwift/Source/Stack/StackWidget.xib
+${PODS_ROOT}/../../../ETWidgetsSwift/Source/Assets/Assets.xcassets
