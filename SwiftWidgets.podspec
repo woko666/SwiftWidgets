@@ -12,7 +12,6 @@ Pod::Spec.new do |s|
     s.source = { :git => "https://github.com/woko666/SwiftWidgets.git", :tag => "#{s.version}"}
     s.framework = 'UIKit'
     s.source_files = 'Source/**/*.swift'
-    s.resources = 'Source/**/*.xib'
     s.resource_bundles = { 'SW' => 'Source/**/*.xcassets' }
     s.frameworks = 'UIKit'
     s.dependency 'SnapKit'
